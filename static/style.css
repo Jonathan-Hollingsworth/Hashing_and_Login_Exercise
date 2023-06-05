@@ -1,0 +1,25 @@
+div {
+    background-color: lightslategrey;
+}
+
+.message {
+    background-color: antiquewhite;
+}
+
+a {
+    text-decoration: none;
+    color: darkcyan;
+    font-size: larger;
+}
+
+body {
+    margin: 0;
+}
+
+.delete {
+    margin-top: 10px;
+}
+
+.update {
+    margin-left: 10px;
+}
